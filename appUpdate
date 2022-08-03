@@ -2,7 +2,7 @@
     "appVersionName": "2.3.9",
     "appVersionCode": 109,
     "appPackage": "com.wsw.cospa",
-    "appUrl": "https://yiciyuan.coding.net/p/ycy/d/ycy/git/raw/master/异次元-2.3.9.apk",
+    "appUrl": "https://gitcode.net/wsw/ycy/-/raw/master/异次元-2.3.9.apk",
     "appSize": 19585838,
     "appPath": "",
     "appChangeLog": "1，增加搜索结果封面后期规则（ruleSearchCoverDecoder），书籍封面后期规则(ruleCoverDecoder)。 <br>2，添加正文后期规则，可用于解决漫画图片乱码问题。 <br>3，漫画设置界面增加预加载开关。 <br>4，fecth方法增加其他请求方式。 <br>5,修复已知bug,提高稳定性。",
