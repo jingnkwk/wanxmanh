@@ -1,14 +1,14 @@
 {
-    "appVersionName": "2.3.9",
-    "appVersionCode": 109,
+    "appVersionName": "2.4.0",
+    "appVersionCode": 110,
     "appPackage": "com.wsw.cospa",
-    "appUrl": "https://gitcode.net/wsw/ycy/-/raw/master/异次元-2.3.9.apk",
-    "appSize": 19585838,
+    "appUrl": "https://gitcode.net/wsw/ycy/-/raw/master/异次元-2.4.0.apk",
+    "appSize": 20459607,
     "appPath": "",
-    "appChangeLog": "1，增加搜索结果封面后期规则（ruleSearchCoverDecoder），书籍封面后期规则(ruleCoverDecoder)。 <br>2，添加正文后期规则，可用于解决漫画图片乱码问题。 <br>3，漫画设置界面增加预加载开关。 <br>4，fecth方法增加其他请求方式。 <br>5,修复已知bug,提高稳定性。",
-    "appMd5": "fce3cab69c9a5773b85ad0b953284e41",
+    "appChangeLog": "1，优化漫画下载。 <br>2，优化滚动漫画卡顿问题。 <br>3，优化内存泄露问题。 <br>4，优化漫画备份和恢复问题。 <br>5,修复已知bug,提高稳定性。",
+    "appMd5": "8bf2ac518d202f247c734ed4ded1a2b7",
     "forceUpdate": 0,
     "topImage": "",
     "showUpdate": true,
-  	"appName":"异次元-2.3.9.apk"
+  	"appName":"异次元-2.4.0.apk"
 }
