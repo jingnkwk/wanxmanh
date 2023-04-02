@@ -1,14 +1,14 @@
 {
-    "appVersionName": "2.4.0",
-    "appVersionCode": 110,
+    "appVersionName": "2.4.1",
+    "appVersionCode": 111,
     "appPackage": "com.wsw.cospa",
-    "appUrl": "https://gitcode.net/wsw/ycy/-/raw/master/异次元-2.4.0.apk",
+    "appUrl": "https://gitcode.net/wsw/ycy/-/raw/master/异次元-2.4.1.apk",
     "appSize": 20459607,
     "appPath": "",
-    "appChangeLog": "1，优化漫画下载。 <br>2，优化滚动漫画卡顿问题。 <br>3，优化内存泄露问题。 <br>4，优化漫画备份和恢复问题。 <br>5,修复已知bug,提高稳定性。",
-    "appMd5": "8bf2ac518d202f247c734ed4ded1a2b7",
+    "appChangeLog": "1,解决部分图源加密导致无法下载漫画的问题。<br>2,优化请求未关闭问题。<br>3,更换侧滑菜单中头图地址。<br>4,本地漫画中其他文件增加图标显示。<br>5,修复已知bug,提高稳定性。",
+    "appMd5": "44c89fc5360163999f91871406e0e304",
     "forceUpdate": 0,
     "topImage": "",
     "showUpdate": true,
-  	"appName":"异次元-2.4.0.apk"
+  	"appName":"异次元-2.4.1.apk"
 }
