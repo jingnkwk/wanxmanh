@@ -2,7 +2,7 @@
     "appVersionName": "2.4.2",
     "appVersionCode": 112,
     "appPackage": "com.wsw.cospa",
-    "appUrl": "https://gitcode.net/wsw/ycy/-/raw/master/异次元-2.4.2.apk",
+    "appUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jingnkwk/wanxmanh/master/异次元-2.4.2.apk",
     "appSize": 20471895,
     "appPath": "",
     "appChangeLog": "1,修复部分图源章节列表出现乱码问题（酷漫屋）。<br>2,修复已知bug,提高稳定性。",
